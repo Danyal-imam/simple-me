@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat",sans-serif;
+}
+img{
+    width: 450px;
+    height: 450px;
+    padding: 20px 0 20px;
+}
+
+.navbar {
+    padding: 15px 0 15px;
+    letter-spacing: 3px;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-nav  li a:hover{
+    color: #1abc9c!important;
+}
+
+.header-section{
+    background-color: #1abc9c;
+    height: 100vh;
+    color: #fff;
+    padding:70px 0 50px;
+}
+p.description{
+    font-size: 18px;
+    padding: 25px 10px;
+}
+.section2{
+    background-color: #474e5d;
+    color: #fff;
+    padding:70px 0;
+}
+.section3 {
+   padding: 70px 0 40px; 
+    
+}
+.section3 img {
+    width: 100%;
+    
+}
+.section3 p{
+    font-size: 18px;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    height: 150px;
+    
+}
+
+.footer-description {
+    margin-top: 75px;
+}
